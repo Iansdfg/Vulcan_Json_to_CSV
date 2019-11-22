@@ -1,6 +1,5 @@
 # This scirpt convert json file from tag tool to a signgle CSV file
 
-
 import json
 import os
 import csv
@@ -23,8 +22,6 @@ def save_single_json(file_name):
             new_array[seconds] = [video_id, seconds, subject, lable]
         return new_array
 
-def padding_row():
-    pass
         
 def write_array_to_CSV(arrary, filename):
     with open(filename, mode='w') as csv_file:
@@ -44,7 +41,11 @@ if __name__ == "__main__":
 
     csv_table = []
     files = os.listdir('json/')
+
     for one_file in files:
+        print(one_file)
+        if one_file[-5:] != '.json':
+            continue
         single_json_arrary = save_single_json('json/' + one_file)
         csv_table += single_json_arrary 
 

@@ -48,273 +48,6 @@ joy 5,45,Neutral,0.5
 joy 5,46,Neutral,0.5
 joy 5,47,Happy,1.0
 joy 5,48,Happy,1.0
-annoy 3,0,Neutral,0.5
-annoy 3,1,Neutral,0.5
-annoy 3,2,Neutral,0.5
-annoy 3,3,Neutral,0.5
-annoy 3,4,Neutral,0.5
-annoy 3,5,Neutral,0.5
-annoy 3,6,Neutral,0.5
-annoy 3,7,Neutral,0.5
-annoy 3,8,Neutral,0.5
-annoy 3,9,Neutral,0.5
-annoy 3,10,Neutral,0.5
-annoy 3,11,Neutral,0.5
-annoy 3,12,Neutral,0.5
-annoy 3,13,Neutral,0.5
-annoy 3,14,Neutral,0.5
-annoy 3,15,Neutral,0.5
-annoy 3,16,Neutral,0.5
-annoy 3,17,Neutral,0.5
-annoy 3,18,Neutral,0.5
-annoy 3,19,Neutral,0.5
-annoy 3,20,Neutral,0.5
-annoy 3,21,Neutral,0.5
-annoy 3,22,Neutral,0.5
-annoy 3,23,Neutral,0.5
-annoy 3,24,Neutral,0.5
-annoy 3,25,Angry,0.0
-annoy 3,26,Angry,0.0
-annoy 3,27,Angry,0.0
-annoy 3,28,Neutral,0.5
-annoy 3,29,Neutral,0.5
-annoy 3,30,Neutral,0.5
-annoy 3,31,Neutral,0.5
-annoy 3,32,Neutral,0.5
-annoy 3,33,Neutral,0.5
-annoy 3,34,Neutral,0.5
-annoy 3,35,Neutral,0.5
-annoy 3,36,Angry,0.0
-annoy 3,37,Angry,0.0
-annoy 3,38,Angry,0.0
-annoy 3,39,Angry,0.0
-annoy 3,40,Angry,0.0
-annoy 3,41,Angry,0.0
-annoy 3,42,Angry,0.0
-annoy 3,43,Angry,0.0
-annoy 3,44,Neutral,0.5
-annoy 3,45,Neutral,0.5
-annoy 3,46,Neutral,0.5
-annoy 3,47,Neutral,0.5
-annoy 3,48,Neutral,0.5
-annoy 3,49,Neutral,0.5
-annoy 3,50,Neutral,0.5
-annoy 3,51,Angry,0.0
-annoy 3,52,Angry,0.0
-annoy 3,53,Angry,0.0
-annoy 3,54,Angry,0.0
-annoy 3,55,Angry,0.0
-annoy 3,56,Angry,0.0
-annoy 3,57,Neutral,0.5
-annoy 3,58,Neutral,0.5
-annoy 3,59,Neutral,0.5
-annoy 3,60,Neutral,0.5
-annoy 3,61,Neutral,0.5
-annoy 3,62,Neutral,0.5
-annoy 3,63,Neutral,0.5
-annoy 3,64,Angry,0.0
-annoy 3,65,Angry,0.0
-annoy 3,66,Angry,0.0
-annoy 3,67,Angry,0.0
-annoy 3,68,Angry,0.0
-annoy 3,69,Angry,0.0
-annoy 3,70,Neutral,0.5
-annoy 3,71,Neutral,0.5
-annoy 3,72,Neutral,0.5
-annoy 3,73,Neutral,0.5
-annoy 3,74,Neutral,0.5
-annoy 3,75,Neutral,0.5
-annoy 3,76,Neutral,0.5
-annoy 3,77,Neutral,0.5
-annoy 3,78,Neutral,0.5
-annoy 3,79,Neutral,0.5
-annoy 3,80,Neutral,0.5
-annoy 3,81,Neutral,0.5
-annoy 3,82,Neutral,0.5
-annoy 3,83,Neutral,0.5
-annoy 3,84,Angry,0.0
-annoy 3,85,Angry,0.0
-annoy 3,86,Angry,0.0
-annoy 3,87,Angry,0.0
-annoy 3,88,Angry,0.0
-annoy 3,89,Angry,0.0
-annoy 3,90,Angry,0.0
-annoy 3,91,Neutral,0.5
-annoy 3,92,Neutral,0.5
-annoy 3,93,Neutral,0.5
-annoy 3,94,Neutral,0.5
-annoy 3,95,Neutral,0.5
-annoy 3,96,Neutral,0.5
-annoy 3,97,Neutral,0.5
-annoy 3,98,Neutral,0.5
-annoy 3,99,Neutral,0.5
-annoy 3,100,Neutral,0.5
-annoy 3,101,Angry,0.0
-annoy 3,102,Angry,0.0
-annoy 3,103,Angry,0.0
-annoy 3,104,Angry,0.0
-annoy 3,105,Angry,0.0
-annoy 3,106,Angry,0.0
-annoy 3,107,Neutral,0.5
-annoy 3,108,Neutral,0.5
-annoy 3,109,Neutral,0.5
-annoy 3,110,Neutral,0.5
-annoy 3,111,Angry,0.0
-annoy 3,112,Angry,0.0
-annoy 3,113,Angry,0.0
-annoy 3,114,Angry,0.0
-annoy 3,115,Angry,0.0
-annoy 3,116,Angry,0.0
-annoy 3,117,Angry,0.0
-annoy 3,118,Angry,0.0
-annoy 3,119,Angry,0.0
-annoy 3,120,Angry,0.0
-annoy 3,121,Angry,0.0
-annoy 3,122,Neutral,0.5
-annoy 3,123,Neutral,0.5
-annoy 3,124,Neutral,0.5
-annoy 3,125,Neutral,0.5
-annoy 3,126,Neutral,0.5
-annoy 3,127,Neutral,0.5
-annoy 3,128,Neutral,0.5
-annoy 3,129,Neutral,0.5
-annoy 3,130,Angry,0.0
-annoy 3,131,Neutral,0.5
-annoy 3,132,Angry,0.0
-annoy 3,133,Angry,0.0
-annoy 3,134,Neutral,0.5
-annoy 3,135,Neutral,0.5
-annoy 3,136,Neutral,0.5
-annoy 3,137,Neutral,0.5
-annoy 3,138,Neutral,0.5
-annoy 3,139,Neutral,0.5
-annoy 3,140,Neutral,0.5
-annoy 3,141,Neutral,0.5
-annoy 3,142,Neutral,0.5
-annoy 3,143,Neutral,0.5
-annoy 3,144,Neutral,0.5
-annoy 3,145,Neutral,0.5
-annoy 3,146,Neutral,0.5
-annoy 3,147,Neutral,0.5
-annoy 3,148,Neutral,0.5
-annoy 3,149,Angry,0.0
-annoy 3,150,Angry,0.0
-annoy 3,151,Angry,0.0
-annoy 3,152,Angry,0.0
-annoy 3,153,Angry,0.0
-annoy 3,154,Angry,0.0
-annoy 3,155,Neutral,0.5
-annoy 3,156,Neutral,0.5
-annoy 3,157,Neutral,0.5
-annoy 3,158,Neutral,0.5
-annoy 3,159,Neutral,0.5
-annoy 3,160,Neutral,0.5
-annoy 3,161,Neutral,0.5
-annoy 3,162,Angry,0.0
-annoy 3,163,Angry,0.0
-joy 2,0,Happy,1.0
-joy 2,1,Happy,1.0
-joy 2,2,Happy,1.0
-joy 2,3,Happy,1.0
-joy 2,4,Neutral,0.5
-joy 2,5,Neutral,0.5
-joy 2,6,Happy,1.0
-joy 2,7,Happy,1.0
-joy 2,8,Neutral,0.5
-joy 2,9,Neutral,0.5
-joy 2,10,Happy,1.0
-joy 2,11,Happy,1.0
-joy 2,12,Happy,1.0
-Anger 3,0,Neutral,0.5
-Anger 3,1,Neutral,0.5
-Anger 3,2,Neutral,0.5
-Anger 3,3,Anger,0.0
-Anger 3,4,Anger,0.0
-Anger 3,5,Anger,0.0
-Anger 3,6,Anger,0.0
-Anger 3,7,Anger,0.0
-Anger 3,8,Anger,0.0
-Anger 3,9,Anger,0.0
-Anger 3,10,Neutral,0.5
-Anger 3,11,Anger,0.0
-Anger 3,12,Anger,0.0
-Anger 3,13,Anger,0.0
-Anger 3,14,Neutral,0.5
-Anger 3,15,Neutral,0.5
-Anger 3,16,Neutral,0.5
-Anger 3,17,Neutral,0.5
-Anger 3,18,Neutral,0.5
-Anger 3,19,Neutral,0.5
-Anger 3,20,Neutral,0.5
-Anger 3,21,Neutral,0.5
-Anger 3,22,Neutral,0.5
-Anger 3,23,Neutral,0.5
-Anger 3,24,Neutral,0.5
-Anger 3,25,Neutral,0.5
-Anger 3,26,Neutral,0.5
-Anger 3,27,Neutral,0.5
-Anger 3,28,Neutral,0.5
-Anger 3,29,Neutral,0.5
-Anger 3,30,Neutral,0.5
-Anger 3,31,Neutral,0.5
-Anger 3,32,Neutral,0.5
-Anger 3,33,Neutral,0.5
-Anger 3,34,Neutral,0.5
-Anger 3,35,Anger,0.0
-Anger 3,36,Neutral,0.5
-Anger 3,37,Neutral,0.5
-Anger 3,38,Neutral,0.5
-Anger 3,39,Neutral,0.5
-Anger 3,40,Neutral,0.5
-Anger 3,41,Neutral,0.5
-Anger 3,42,Anger,0.0
-Anger 3,43,Neutral,0.5
-Anger 3,44,Neutral,0.5
-Anger 3,45,Neutral,0.5
-Anger 3,46,Neutral,0.5
-Anger 3,47,Neutral,0.5
-Anger 3,48,Neutral,0.5
-Anger 3,49,Neutral,0.5
-Anger 3,50,Neutral,0.5
-Anger 3,51,Neutral,0.5
-Anger 3,52,Neutral,0.5
-Anger 3,53,Anger,0.0
-Anger 3,54,Anger,0.0
-Anger 3,55,Neutral,0.5
-Anger 3,56,Neutral,0.5
-Anger 3,57,Neutral,0.5
-Anger 3,58,Neutral,0.5
-Anger 3,59,Anger,0.0
-Anger 3,60,Anger,0.0
-Anger 3,61,Neutral,0.5
-Anger 3,62,Anger,0.0
-Anger 3,63,Anger,0.0
-Anger 3,64,Anger,0.0
-Anger 3,65,Anger,0.0
-Anger 2,0,Neutral,0.5
-Anger 2,1,Neutral,0.5
-Anger 2,2,Neutral,0.5
-Anger 2,3,Angry,0.0
-Anger 2,4,Angry,0.0
-Anger 2,5,Neutral,0.5
-Anger 2,6,Angry,0.0
-Anger 2,7,Neutral,0.5
-Anger 2,8,Angry,0.0
-Anger 2,9,Angry,0.0
-Anger 2,10,Angry,0.0
-Anger 2,11,Angry,0.0
-Anger 2,0,Neutral,0.5
-Anger 2,1,Neutral,0.5
-Anger 2,2,Neutral,0.5
-Anger 2,3,Angry,0.0
-Anger 2,4,Angry,0.0
-Anger 2,5,Neutral,0.5
-Anger 2,6,Angry,0.0
-Anger 2,7,Neutral,0.5
-Anger 2,8,Angry,0.0
-Anger 2,9,Angry,0.0
-Anger 2,10,Angry,0.0
-Anger 2,11,Angry,0.0
 annoy 6,0,Neutral,0.5
 annoy 6,1,Neutral,0.5
 annoy 6,2,Neutral,0.5
@@ -511,199 +244,520 @@ annoy 1,144,Angry,0.0
 annoy 1,145,Angry,0.0
 annoy 1,146,Angry,0.0
 annoy 1,147,Angry,0.0
-Joy_8,0,Neutral,0.5
-Joy_8,1,Neutral,0.5
-Joy_8,2,Neutral,0.5
-Joy_8,3,Neutral,0.5
-Joy_8,4,Neutral,0.5
-Joy_8,5,Neutral,0.5
-Joy_8,6,Neutral,0.5
-Joy_8,7,Neutral,0.5
-Joy_8,8,Neutral,0.5
-Joy_8,9,Neutral,0.5
-Joy_8,10,Neutral,0.5
-Joy_8,11,Neutral,0.5
-Joy_8,12,Neutral,0.5
-Joy_8,13,Neutral,0.5
-Joy_8,14,Neutral,0.5
-Joy_8,15,Neutral,0.5
-Joy_8,16,Neutral,0.5
-Joy_8,17,Neutral,0.5
-Joy_8,18,Neutral,0.5
-Joy_8,19,Neutral,0.5
-Joy_8,20,Neutral,0.5
-Joy_8,21,Neutral,0.5
-Joy_8,22,Happy,1.0
-Joy_8,23,Happy,1.0
-Joy_8,24,Happy,1.0
-Joy_8,25,Happy,1.0
-Joy_8,26,Happy,1.0
-Joy_8,27,Happy,1.0
-Joy_8,28,Happy,1.0
-Joy_8,29,Happy,1.0
-Joy_8,30,Happy,1.0
-Joy_8,31,Happy,1.0
-Joy_8,32,Happy,1.0
-Joy_8,33,Happy,1.0
-Joy_8,34,Neutral,0.5
-Joy_8,35,Happy,1.0
-Joy_8,36,Neutral,0.5
-Joy_8,37,Happy,1.0
-Joy_8,38,Happy,1.0
-Joy_8,39,Happy,1.0
-Joy_8,40,Happy,1.0
-Joy_8,41,Happy,1.0
-Joy_8,42,Happy,1.0
-Joy_8,43,Happy,1.0
-Joy_8,44,Happy,1.0
-Joy_8,45,Happy,1.0
-Joy_8,46,Happy,1.0
-Joy_8,47,Happy,1.0
-Joy_8,48,Happy,1.0
-Joy_8,49,Happy,1.0
-Joy_8,50,Happy,1.0
-Joy_8,51,Happy,1.0
-Joy_8,52,Happy,1.0
-Joy_8,53,Happy,1.0
-Joy_8,54,Happy,1.0
-Joy_8,55,Happy,1.0
-Joy_8,56,Happy,1.0
-Joy_8,57,Happy,1.0
-Joy_8,58,Happy,1.0
-Joy_8,59,Happy,1.0
-Joy_8,60,Happy,1.0
-Joy_8,61,Happy,1.0
-Joy_8,62,Happy,1.0
-Joy_8,63,Happy,1.0
-Joy_8,64,Happy,1.0
-Sad_3,0,Neutral,0.5
-Sad_3,1,Neutral,0.5
-Sad_3,2,Neutral,0.5
-Sad_3,3,Neutral,0.5
-Sad_3,4,Neutral,0.5
-Sad_3,5,Neutral,0.5
-Sad_3,6,Neutral,0.5
-Sad_3,7,Sad,0.0
-Sad_3,8,Sad,0.0
-Sad_3,9,Sad,0.0
-Sad_3,10,Sad,0.0
-Sad_3,11,Sad,0.0
-Sad_3,12,Sad,0.0
-Sad_3,13,Sad,0.0
-Sad_3,14,Neutral,0.5
-Sad_3,15,Neutral,0.5
-Sad_3,16,Neutral,0.5
-Sad_3,17,Neutral,0.5
-Sad_3,18,Neutral,0.5
-Sad_3,19,Neutral,0.5
-Sad_3,20,Neutral,0.5
-Sad_4,0,Sad,0.0
-Sad_4,1,Sad,0.0
-Sad_4,2,Sad,0.0
-Sad_4,3,Sad,0.0
-Sad_4,4,Sad,0.0
-Sad_4,5,Sad,0.0
-Sad_4,6,Sad,0.0
-Sad_4,7,Sad,0.0
-Sad_4,8,Sad,0.0
-Sad_4,9,Sad,0.0
-Sad_4,10,Sad,0.0
-Sad_4,11,Sad,0.0
-Sad_4,12,Sad,0.0
-Sad_4,13,Sad,0.0
-Sad_4,14,Sad,0.0
-Sad_4,15,Sad,0.0
-Sad_4,16,Sad,0.0
-Sad_4,17,Sad,0.0
-Sad_4,18,Sad,0.0
-Sad_4,19,Sad,0.0
-Sad_4,20,Sad,0.0
-Sad_4,21,Sad,0.0
-Sad_4,22,Sad,0.0
-Sad_4,23,Sad,0.0
-Sad_4,24,Sad,0.0
-Sad_4,25,Sad,0.0
-Sad_4,26,Neutral,0.5
-Sad_4,27,Neutral,0.5
-Sad_4,28,Neutral,0.5
-Sad_4,29,Neutral,0.5
-Sad_4,30,Neutral,0.5
-Joy_10,0,Happy,1.0
-Joy_10,1,Happy,1.0
-Joy_10,2,Happy,1.0
-Joy_10,3,Happy,1.0
-Joy_10,4,Happy,1.0
-Joy_10,5,Happy,1.0
-Joy_10,6,Happy,1.0
-Joy_10,7,Happy,1.0
-Joy_10,8,Happy,1.0
-Joy_10,9,Happy,1.0
-Joy_10,10,Happy,1.0
-Joy_10,11,Happy,1.0
-Joy_10,12,Happy,1.0
-Joy_10,13,Happy,1.0
-Joy_10,14,Happy,1.0
-Joy_10,15,Happy,1.0
-Joy_10,16,Happy,1.0
-Joy_10,17,Happy,1.0
-Joy_10,18,Happy,1.0
-Joy_10,19,Happy,1.0
-Joy_10,20,Happy,1.0
-Joy_10,21,Happy,1.0
-Joy_10,22,Happy,1.0
-Joy_10,23,Happy,1.0
-Joy_10,24,Happy,1.0
-Joy_10,25,Happy,1.0
-Joy_10,26,Happy,1.0
-Joy_10,27,Happy,1.0
-Joy_10,28,Neutral,0.5
-Joy_10,29,Neutral,0.5
-Joy_10,30,Neutral,0.5
-Joy_10,31,Neutral,0.5
-Joy_10,32,Neutral,0.5
-Joy_10,33,Neutral,0.5
-Joy_10,34,Neutral,0.5
-Joy_10,35,Neutral,0.5
-Joy_10,36,Neutral,0.5
-Joy_10,37,Neutral,0.5
-Joy_10,38,Neutral,0.5
-Joy_10,39,Neutral,0.5
-Joy_10,40,Neutral,0.5
-Joy_10,41,Neutral,0.5
-Joy_10,42,Neutral,0.5
-Joy_10,43,Neutral,0.5
-Joy_10,44,Neutral,0.5
-Joy_10,45,Neutral,0.5
-Joy_10,46,Neutral,0.5
-Joy_10,47,Neutral,0.5
-Joy_10,48,Neutral,0.5
-Joy_10,49,Neutral,0.5
-Joy_10,50,Neutral,0.5
-Joy_10,51,Neutral,0.5
-Joy_10,52,Neutral,0.5
-Joy_10,53,Neutral,0.5
-Joy_10,54,Neutral,0.5
-Joy_10,55,Neutral,0.5
-Joy_10,56,Neutral,0.5
-Joy_10,57,Neutral,0.5
-Joy_10,58,Neutral,0.5
-Joy_10,59,Neutral,0.5
-Joy_10,60,Neutral,0.5
-Joy_10,61,Neutral,0.5
-Joy_10,62,Neutral,0.5
-Joy_10,63,Happy,1.0
-Joy_10,64,Happy,1.0
-Joy_10,65,Happy,1.0
-Joy_10,66,Happy,1.0
-Joy_10,67,Happy,1.0
-Joy_10,68,Happy,1.0
-Joy_10,69,Happy,1.0
-Joy_7,0,Happy,1.0
-Joy_7,1,Happy,1.0
-Joy_7,2,Happy,1.0
-Joy_7,3,Happy,1.0
-Joy_7,4,Happy,1.0
-Joy_7,5,Happy,1.0
-Joy_7,6,Happy,1.0
-Joy_7,7,Happy,1.0
-Joy_7,8,Happy,1.0
+Anger 1,0,Neutral,0.5
+Anger 1,1,Neutral,0.5
+Anger 1,2,Neutral,0.5
+Anger 1,3,Neutral,0.5
+Anger 1,4,Neutral,0.5
+Anger 1,5,Neutral,0.5
+Anger 1,6,Neutral,0.5
+Anger 1,7,Angry,0.0
+Anger 1,8,Neutral,0.5
+Anger 1,9,Neutral,0.5
+Anger 1,10,Neutral,0.5
+Anger 1,11,Neutral,0.5
+Anger 1,12,Neutral,0.5
+Anger 1,13,Neutral,0.5
+Anger 1,14,Angry,0.0
+Anger 1,15,Neutral,0.5
+Anger 1,16,Angry,0.0
+Anger 1,17,Neutral,0.5
+Anger 1,18,Neutral,0.5
+Anger 1,19,Neutral,0.5
+Anger 1,20,Neutral,0.5
+Anger 1,21,Neutral,0.5
+Anger 1,22,Neutral,0.5
+Anger 1,23,Neutral,0.5
+Anger 1,24,Neutral,0.5
+Anger 1,25,Neutral,0.5
+Anger 1,26,Neutral,0.5
+Anger 1,27,Neutral,0.5
+Anger 1,28,Neutral,0.5
+Anger 1,29,Neutral,0.5
+Anger 1,30,Neutral,0.5
+Anger 1,31,Angry,0.0
+Anger 1,32,Angry,0.0
+Anger 1,33,Angry,0.0
+Anger 1,34,Neutral,0.5
+Anger 1,35,Angry,0.0
+Anger 1,36,Angry,0.0
+Anger 1,37,Angry,0.0
+Anger 1,38,Neutral,0.5
+Anger 1,39,Angry,0.0
+Anger 1,40,Angry,0.0
+Anger 1,41,Angry,0.0
+Anger 1,42,Neutral,0.5
+Anger 1,43,Angry,0.0
+Anger 1,44,Angry,0.0
+Anger 1,45,Angry,0.0
+Anger 1,46,Angry,0.0
+Anger 1,47,Angry,0.0
+Anger 1,48,Angry,0.0
+Anger 1,49,Angry,0.0
+Anger 1,50,Neutral,0.5
+Anger 1,51,Angry,0.0
+Anger 1,52,Angry,0.0
+Anger 1,53,Angry,0.0
+Anger 1,54,Angry,0.0
+Anger 1,55,Angry,0.0
+Anger 1,56,Neutral,0.5
+Anger 1,57,Neutral,0.5
+Anger 1,58,Neutral,0.5
+Anger 1,59,Neutral,0.0
+joy 2,0,Happy,1.0
+joy 2,1,Happy,1.0
+joy 2,2,Happy,1.0
+joy 2,3,Happy,1.0
+joy 2,4,Neutral,0.5
+joy 2,5,Neutral,0.5
+joy 2,6,Happy,1.0
+joy 2,7,Happy,1.0
+joy 2,8,Neutral,0.5
+joy 2,9,Neutral,0.5
+joy 2,10,Happy,1.0
+joy 2,11,Happy,1.0
+joy 2,12,Happy,1.0
+Anger 2,0,Neutral,0.5
+Anger 2,1,Neutral,0.5
+Anger 2,2,Neutral,0.5
+Anger 2,3,Angry,0.0
+Anger 2,4,Angry,0.0
+Anger 2,5,Neutral,0.5
+Anger 2,6,Angry,0.0
+Anger 2,7,Neutral,0.5
+Anger 2,8,Angry,0.0
+Anger 2,9,Angry,0.0
+Anger 2,10,Angry,0.0
+Anger 2,11,Angry,0.0
+Anger 2,12,Neutral,0.5
+Anger 2,13,Neutral,0.5
+Anger 2,14,Neutral,0.5
+Anger 2,15,Neutral,0.5
+Anger 2,16,Neutral,0.5
+Anger 2,17,Neutral,0.0
+annoy 3,0,Neutral,0.5
+annoy 3,1,Neutral,0.5
+annoy 3,2,Neutral,0.5
+annoy 3,3,Neutral,0.5
+annoy 3,4,Neutral,0.5
+annoy 3,5,Neutral,0.5
+annoy 3,6,Neutral,0.5
+annoy 3,7,Neutral,0.5
+annoy 3,8,Neutral,0.5
+annoy 3,9,Neutral,0.5
+annoy 3,10,Neutral,0.5
+annoy 3,11,Neutral,0.5
+annoy 3,12,Neutral,0.5
+annoy 3,13,Neutral,0.5
+annoy 3,14,Neutral,0.5
+annoy 3,15,Neutral,0.5
+annoy 3,16,Neutral,0.5
+annoy 3,17,Neutral,0.5
+annoy 3,18,Neutral,0.5
+annoy 3,19,Neutral,0.5
+annoy 3,20,Neutral,0.5
+annoy 3,21,Neutral,0.5
+annoy 3,22,Neutral,0.5
+annoy 3,23,Neutral,0.5
+annoy 3,24,Neutral,0.5
+annoy 3,25,Angry,0.0
+annoy 3,26,Angry,0.0
+annoy 3,27,Angry,0.0
+annoy 3,28,Neutral,0.5
+annoy 3,29,Neutral,0.5
+annoy 3,30,Neutral,0.5
+annoy 3,31,Neutral,0.5
+annoy 3,32,Neutral,0.5
+annoy 3,33,Neutral,0.5
+annoy 3,34,Neutral,0.5
+annoy 3,35,Neutral,0.5
+annoy 3,36,Angry,0.0
+annoy 3,37,Angry,0.0
+annoy 3,38,Angry,0.0
+annoy 3,39,Angry,0.0
+annoy 3,40,Angry,0.0
+annoy 3,41,Angry,0.0
+annoy 3,42,Angry,0.0
+annoy 3,43,Angry,0.0
+annoy 3,44,Neutral,0.5
+annoy 3,45,Neutral,0.5
+annoy 3,46,Neutral,0.5
+annoy 3,47,Neutral,0.5
+annoy 3,48,Neutral,0.5
+annoy 3,49,Neutral,0.5
+annoy 3,50,Neutral,0.5
+annoy 3,51,Angry,0.0
+annoy 3,52,Angry,0.0
+annoy 3,53,Angry,0.0
+annoy 3,54,Angry,0.0
+annoy 3,55,Angry,0.0
+annoy 3,56,Angry,0.0
+annoy 3,57,Neutral,0.5
+annoy 3,58,Neutral,0.5
+annoy 3,59,Neutral,0.5
+annoy 3,60,Neutral,0.5
+annoy 3,61,Neutral,0.5
+annoy 3,62,Neutral,0.5
+annoy 3,63,Neutral,0.5
+annoy 3,64,Angry,0.0
+annoy 3,65,Angry,0.0
+annoy 3,66,Angry,0.0
+annoy 3,67,Angry,0.0
+annoy 3,68,Angry,0.0
+annoy 3,69,Angry,0.0
+annoy 3,70,Neutral,0.5
+annoy 3,71,Neutral,0.5
+annoy 3,72,Neutral,0.5
+annoy 3,73,Neutral,0.5
+annoy 3,74,Neutral,0.5
+annoy 3,75,Neutral,0.5
+annoy 3,76,Neutral,0.5
+annoy 3,77,Neutral,0.5
+annoy 3,78,Neutral,0.5
+annoy 3,79,Neutral,0.5
+annoy 3,80,Neutral,0.5
+annoy 3,81,Neutral,0.5
+annoy 3,82,Neutral,0.5
+annoy 3,83,Neutral,0.5
+annoy 3,84,Angry,0.0
+annoy 3,85,Angry,0.0
+annoy 3,86,Angry,0.0
+annoy 3,87,Angry,0.0
+annoy 3,88,Angry,0.0
+annoy 3,89,Angry,0.0
+annoy 3,90,Angry,0.0
+annoy 3,91,Neutral,0.5
+annoy 3,92,Neutral,0.5
+annoy 3,93,Neutral,0.5
+annoy 3,94,Neutral,0.5
+annoy 3,95,Neutral,0.5
+annoy 3,96,Neutral,0.5
+annoy 3,97,Neutral,0.5
+annoy 3,98,Neutral,0.5
+annoy 3,99,Neutral,0.5
+annoy 3,100,Neutral,0.5
+annoy 3,101,Angry,0.0
+annoy 3,102,Angry,0.0
+annoy 3,103,Angry,0.0
+annoy 3,104,Angry,0.0
+annoy 3,105,Angry,0.0
+annoy 3,106,Angry,0.0
+annoy 3,107,Neutral,0.5
+annoy 3,108,Neutral,0.5
+annoy 3,109,Neutral,0.5
+annoy 3,110,Neutral,0.5
+annoy 3,111,Angry,0.0
+annoy 3,112,Angry,0.0
+annoy 3,113,Angry,0.0
+annoy 3,114,Angry,0.0
+annoy 3,115,Angry,0.0
+annoy 3,116,Angry,0.0
+annoy 3,117,Angry,0.0
+annoy 3,118,Angry,0.0
+annoy 3,119,Angry,0.0
+annoy 3,120,Angry,0.0
+annoy 3,121,Angry,0.0
+annoy 3,122,Neutral,0.5
+annoy 3,123,Neutral,0.5
+annoy 3,124,Neutral,0.5
+annoy 3,125,Neutral,0.5
+annoy 3,126,Neutral,0.5
+annoy 3,127,Neutral,0.5
+annoy 3,128,Neutral,0.5
+annoy 3,129,Neutral,0.5
+annoy 3,130,Angry,0.0
+annoy 3,131,Neutral,0.5
+annoy 3,132,Angry,0.0
+annoy 3,133,Angry,0.0
+annoy 3,134,Neutral,0.5
+annoy 3,135,Neutral,0.5
+annoy 3,136,Neutral,0.5
+annoy 3,137,Neutral,0.5
+annoy 3,138,Neutral,0.5
+annoy 3,139,Neutral,0.5
+annoy 3,140,Neutral,0.5
+annoy 3,141,Neutral,0.5
+annoy 3,142,Neutral,0.5
+annoy 3,143,Neutral,0.5
+annoy 3,144,Neutral,0.5
+annoy 3,145,Neutral,0.5
+annoy 3,146,Neutral,0.5
+annoy 3,147,Neutral,0.5
+annoy 3,148,Neutral,0.5
+annoy 3,149,Angry,0.0
+annoy 3,150,Angry,0.0
+annoy 3,151,Angry,0.0
+annoy 3,152,Angry,0.0
+annoy 3,153,Angry,0.0
+annoy 3,154,Angry,0.0
+annoy 3,155,Neutral,0.5
+annoy 3,156,Neutral,0.5
+annoy 3,157,Neutral,0.5
+annoy 3,158,Neutral,0.5
+annoy 3,159,Neutral,0.5
+annoy 3,160,Neutral,0.5
+annoy 3,161,Neutral,0.5
+annoy 3,162,Angry,0.0
+annoy 3,163,Angry,0.0
+Anger 3,0,Neutral,0.5
+Anger 3,1,Neutral,0.5
+Anger 3,2,Neutral,0.5
+Anger 3,3,Anger,0.0
+Anger 3,4,Anger,0.0
+Anger 3,5,Anger,0.0
+Anger 3,6,Anger,0.0
+Anger 3,7,Anger,0.0
+Anger 3,8,Anger,0.0
+Anger 3,9,Anger,0.0
+Anger 3,10,Neutral,0.5
+Anger 3,11,Anger,0.0
+Anger 3,12,Anger,0.0
+Anger 3,13,Anger,0.0
+Anger 3,14,Neutral,0.5
+Anger 3,15,Neutral,0.5
+Anger 3,16,Neutral,0.5
+Anger 3,17,Neutral,0.5
+Anger 3,18,Neutral,0.5
+Anger 3,19,Neutral,0.5
+Anger 3,20,Neutral,0.5
+Anger 3,21,Neutral,0.5
+Anger 3,22,Neutral,0.5
+Anger 3,23,Neutral,0.5
+Anger 3,24,Neutral,0.5
+Anger 3,25,Neutral,0.5
+Anger 3,26,Neutral,0.5
+Anger 3,27,Neutral,0.5
+Anger 3,28,Neutral,0.5
+Anger 3,29,Neutral,0.5
+Anger 3,30,Neutral,0.5
+Anger 3,31,Neutral,0.5
+Anger 3,32,Neutral,0.5
+Anger 3,33,Neutral,0.5
+Anger 3,34,Neutral,0.5
+Anger 3,35,Anger,0.0
+Anger 3,36,Neutral,0.5
+Anger 3,37,Neutral,0.5
+Anger 3,38,Neutral,0.5
+Anger 3,39,Neutral,0.5
+Anger 3,40,Neutral,0.5
+Anger 3,41,Neutral,0.5
+Anger 3,42,Anger,0.0
+Anger 3,43,Neutral,0.5
+Anger 3,44,Neutral,0.5
+Anger 3,45,Neutral,0.5
+Anger 3,46,Neutral,0.5
+Anger 3,47,Neutral,0.5
+Anger 3,48,Neutral,0.5
+Anger 3,49,Neutral,0.5
+Anger 3,50,Neutral,0.5
+Anger 3,51,Neutral,0.5
+Anger 3,52,Neutral,0.5
+Anger 3,53,Anger,0.0
+Anger 3,54,Anger,0.0
+Anger 3,55,Neutral,0.5
+Anger 3,56,Neutral,0.5
+Anger 3,57,Neutral,0.5
+Anger 3,58,Neutral,0.5
+Anger 3,59,Anger,0.0
+Anger 3,60,Anger,0.0
+Anger 3,61,Neutral,0.5
+Anger 3,62,Anger,0.0
+Anger 3,63,Anger,0.0
+Anger 3,64,Anger,0.0
+Anger 3,65,Anger,0.0
+joy_8,0,Neutral,0.5
+joy_8,1,Neutral,0.5
+joy_8,2,Neutral,0.5
+joy_8,3,Neutral,0.5
+joy_8,4,Neutral,0.5
+joy_8,5,Neutral,0.5
+joy_8,6,Neutral,0.5
+joy_8,7,Neutral,0.5
+joy_8,8,Neutral,0.5
+joy_8,9,Neutral,0.5
+joy_8,10,Neutral,0.5
+joy_8,11,Neutral,0.5
+joy_8,12,Neutral,0.5
+joy_8,13,Neutral,0.5
+joy_8,14,Neutral,0.5
+joy_8,15,Neutral,0.5
+joy_8,16,Neutral,0.5
+joy_8,17,Neutral,0.5
+joy_8,18,Neutral,0.5
+joy_8,19,Neutral,0.5
+joy_8,20,Neutral,0.5
+joy_8,21,Neutral,0.5
+joy_8,22,Happy,1.0
+joy_8,23,Happy,1.0
+joy_8,24,Happy,1.0
+joy_8,25,Happy,1.0
+joy_8,26,Happy,1.0
+joy_8,27,Happy,1.0
+joy_8,28,Happy,1.0
+joy_8,29,Happy,1.0
+joy_8,30,Happy,1.0
+joy_8,31,Happy,1.0
+joy_8,32,Happy,1.0
+joy_8,33,Happy,1.0
+joy_8,34,Neutral,0.5
+joy_8,35,Happy,1.0
+joy_8,36,Neutral,0.5
+joy_8,37,Happy,1.0
+joy_8,38,Happy,1.0
+joy_8,39,Happy,1.0
+joy_8,40,Happy,1.0
+joy_8,41,Happy,1.0
+joy_8,42,Happy,1.0
+joy_8,43,Happy,1.0
+joy_8,44,Happy,1.0
+joy_8,45,Happy,1.0
+joy_8,46,Happy,1.0
+joy_8,47,Happy,1.0
+joy_8,48,Happy,1.0
+joy_8,49,Happy,1.0
+joy_8,50,Happy,1.0
+joy_8,51,Happy,1.0
+joy_8,52,Happy,1.0
+joy_8,53,Happy,1.0
+joy_8,54,Happy,1.0
+joy_8,55,Happy,1.0
+joy_8,56,Happy,1.0
+joy_8,57,Happy,1.0
+joy_8,58,Happy,1.0
+joy_8,59,Happy,1.0
+joy_8,60,Happy,1.0
+joy_8,61,Happy,1.0
+joy_8,62,Happy,1.0
+joy_8,63,Happy,1.0
+joy_8,64,Happy,1.0
+sad_4,0,Sad,0.0
+sad_4,1,Sad,0.0
+sad_4,2,Sad,0.0
+sad_4,3,Sad,0.0
+sad_4,4,Sad,0.0
+sad_4,5,Sad,0.0
+sad_4,6,Sad,0.0
+sad_4,7,Sad,0.0
+sad_4,8,Sad,0.0
+sad_4,9,Sad,0.0
+sad_4,10,Sad,0.0
+sad_4,11,Sad,0.0
+sad_4,12,Sad,0.0
+sad_4,13,Sad,0.0
+sad_4,14,Sad,0.0
+sad_4,15,Sad,0.0
+sad_4,16,Sad,0.0
+sad_4,17,Sad,0.0
+sad_4,18,Sad,0.0
+sad_4,19,Sad,0.0
+sad_4,20,Sad,0.0
+sad_4,21,Sad,0.0
+sad_4,22,Sad,0.0
+sad_4,23,Sad,0.0
+sad_4,24,Sad,0.0
+sad_4,25,Sad,0.0
+sad_4,26,Neutral,0.5
+sad_4,27,Neutral,0.5
+sad_4,28,Neutral,0.5
+sad_4,29,Neutral,0.5
+sad_4,30,Neutral,0.5
+sad_3,0,Neutral,0.5
+sad_3,1,Neutral,0.5
+sad_3,2,Neutral,0.5
+sad_3,3,Neutral,0.5
+sad_3,4,Neutral,0.5
+sad_3,5,Neutral,0.5
+sad_3,6,Neutral,0.5
+sad_3,7,Sad,0.0
+sad_3,8,Sad,0.0
+sad_3,9,Sad,0.0
+sad_3,10,Sad,0.0
+sad_3,11,Sad,0.0
+sad_3,12,Sad,0.0
+sad_3,13,Sad,0.0
+sad_3,14,Neutral,0.5
+sad_3,15,Neutral,0.5
+sad_3,16,Neutral,0.5
+sad_3,17,Neutral,0.5
+sad_3,18,Neutral,0.5
+sad_3,19,Neutral,0.5
+sad_3,20,Neutral,0.5
+joy_10,0,Happy,1.0
+joy_10,1,Happy,1.0
+joy_10,2,Happy,1.0
+joy_10,3,Happy,1.0
+joy_10,4,Happy,1.0
+joy_10,5,Happy,1.0
+joy_10,6,Happy,1.0
+joy_10,7,Happy,1.0
+joy_10,8,Happy,1.0
+joy_10,9,Happy,1.0
+joy_10,10,Happy,1.0
+joy_10,11,Happy,1.0
+joy_10,12,Happy,1.0
+joy_10,13,Happy,1.0
+joy_10,14,Happy,1.0
+joy_10,15,Happy,1.0
+joy_10,16,Happy,1.0
+joy_10,17,Happy,1.0
+joy_10,18,Happy,1.0
+joy_10,19,Happy,1.0
+joy_10,20,Happy,1.0
+joy_10,21,Happy,1.0
+joy_10,22,Happy,1.0
+joy_10,23,Happy,1.0
+joy_10,24,Happy,1.0
+joy_10,25,Happy,1.0
+joy_10,26,Happy,1.0
+joy_10,27,Happy,1.0
+joy_10,28,Neutral,0.5
+joy_10,29,Neutral,0.5
+joy_10,30,Neutral,0.5
+joy_10,31,Neutral,0.5
+joy_10,32,Neutral,0.5
+joy_10,33,Neutral,0.5
+joy_10,34,Neutral,0.5
+joy_10,35,Neutral,0.5
+joy_10,36,Neutral,0.5
+joy_10,37,Neutral,0.5
+joy_10,38,Neutral,0.5
+joy_10,39,Neutral,0.5
+joy_10,40,Neutral,0.5
+joy_10,41,Neutral,0.5
+joy_10,42,Neutral,0.5
+joy_10,43,Neutral,0.5
+joy_10,44,Neutral,0.5
+joy_10,45,Neutral,0.5
+joy_10,46,Neutral,0.5
+joy_10,47,Neutral,0.5
+joy_10,48,Neutral,0.5
+joy_10,49,Neutral,0.5
+joy_10,50,Neutral,0.5
+joy_10,51,Neutral,0.5
+joy_10,52,Neutral,0.5
+joy_10,53,Neutral,0.5
+joy_10,54,Neutral,0.5
+joy_10,55,Neutral,0.5
+joy_10,56,Neutral,0.5
+joy_10,57,Neutral,0.5
+joy_10,58,Neutral,0.5
+joy_10,59,Neutral,0.5
+joy_10,60,Neutral,0.5
+joy_10,61,Neutral,0.5
+joy_10,62,Neutral,0.5
+joy_10,63,Happy,1.0
+joy_10,64,Happy,1.0
+joy_10,65,Happy,1.0
+joy_10,66,Happy,1.0
+joy_10,67,Happy,1.0
+joy_10,68,Happy,1.0
+joy_10,69,Happy,1.0
+joy_7,0,Happy,1.0
+joy_7,1,Happy,1.0
+joy_7,2,Happy,1.0
+joy_7,3,Happy,1.0
+joy_7,4,Happy,1.0
+joy_7,5,Happy,1.0
+joy_7,6,Happy,1.0
+joy_7,7,Happy,1.0
+joy_7,8,Happy,1.0
