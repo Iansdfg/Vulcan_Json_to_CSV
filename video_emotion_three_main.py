@@ -24,8 +24,8 @@ import matplotlib.pyplot as plt
 _url = 'https://westus2.api.cognitive.microsoft.com/face/v1.0/detect'
 _key = 'bc027dc227484433a77d7b613807d230' #Here you have to paste your primary key
 _maxNumRetries = 10
-cap = cv2.VideoCapture('C:/Users/aya65/Documents/GIX/Q5/Vulcan/Data/Videos/Videos_2/001_S_T.wmv')
-timeF = 30
+cap = cv2.VideoCapture('emotion_video/Anger_1.mp4')
+timeF = 60
 c=1
 sec = 0
 
@@ -60,10 +60,13 @@ while(cap.isOpened()):
             }
             path = "frame1.jpg"
             result = processRequest( json, data, headers, params, _url )
-            #if result == []:
-                #no face
+            
+            # /// build data ///
+            # if result == []:
+            #     no face
+            if result == []:
+                continue
             firstface_dic = result[0]
-            #print(result[0])
             faceAttributes_dic = firstface_dic['faceAttributes']
             #print(faceAttributes_dic)
             time = sec
@@ -79,14 +82,30 @@ while(cap.isOpened()):
             neutral = faceAttributes_dic['emotion']['neutral']
             sadness = faceAttributes_dic['emotion']['sadness']
             surprise = faceAttributes_dic['emotion']['surprise']
-            connection = get_connection()
+            data =  {
+                    'video_id': video_id, 
+                    'smile': smile, 
+                    'gender':gender, 
+                    'anger': anger, 
+                    'contempt':contempt, 
+                    'disgust':disgust, 
+                    'fear':fear, 
+                    'happiness':happiness, 
+                    'neutral':neutral, 
+                    'sadness':sadness, 
+                    'surprise':surprise, 
+                    'time':time, 
+                    'type':type 
+                    }
             print(data)
-            data =  {'video_id': video_id, 'smile': smile, 'gender':gender, 'anger': anger, 'contempt':contempt, 'disgust':disgust, 'fear':fear, 'happiness':happiness, 'neutral':neutral, 'sadness':sadness, 'surprise':surprise, 'time':time, 'type':type }
+
+            # /// upload to database ///
+            # connection = get_connection()
             #table_name = 'facial_emotion_dataset'
             #create_data(table_name, data, connection)
 
             k = cv2.waitKey(2)
-            #q键退出
+            #/// q键退出 ///
             if (k & 0xff == ord('q')):
                 break
         c+=1
