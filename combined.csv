@@ -1,570 +1,570 @@
-﻿id,time,label,type
-joy 5,0,Happy,1.0
-joy 5,1,Neutral,0.5
-joy 5,2,Happy,1.0
-joy 5,3,Happy,1.0
-joy 5,4,Happy,1.0
-joy 5,5,Happy,1.0
-joy 5,6,Happy,1.0
-joy 5,7,Happy,1.0
-joy 5,8,Happy,1.0
-joy 5,9,Happy,1.0
-joy 5,10,Happy,1.0
-joy 5,11,Happy,1.0
-joy 5,12,Neutral,0.5
-joy 5,13,Happy,1.0
-joy 5,14,Happy,1.0
-joy 5,15,Happy,1.0
-joy 5,16,Happy,1.0
-joy 5,17,Neutral,0.5
-joy 5,18,Neutral,0.5
-joy 5,19,Happy,1.0
-joy 5,20,Happy,1.0
-joy 5,21,Happy,1.0
-joy 5,22,Happy,1.0
-joy 5,23,Happy,1.0
-joy 5,24,Happy,1.0
-joy 5,25,Happy,1.0
-joy 5,26,Neutral,0.5
-joy 5,27,Neutral,0.5
-joy 5,28,Happy,1.0
-joy 5,29,Happy,1.0
-joy 5,30,Happy,1.0
-joy 5,31,Happy,1.0
-joy 5,32,Neutral,0.5
-joy 5,33,Happy,1.0
-joy 5,34,Happy,1.0
-joy 5,35,Happy,1.0
-joy 5,36,Happy,1.0
-joy 5,37,Neutral,0.5
-joy 5,38,Neutral,0.5
-joy 5,39,Neutral,0.5
-joy 5,40,Happy,1.0
-joy 5,41,Happy,1.0
-joy 5,42,Happy,1.0
-joy 5,43,Happy,1.0
-joy 5,44,Neutral,0.5
-joy 5,45,Neutral,0.5
-joy 5,46,Neutral,0.5
-joy 5,47,Happy,1.0
-joy 5,48,Happy,1.0
-annoy 6,0,Neutral,0.5
-annoy 6,1,Neutral,0.5
-annoy 6,2,Neutral,0.5
-annoy 6,3,Neutral,0.5
-annoy 6,4,Angry,0.0
-annoy 6,5,Angry,0.0
-annoy 6,6,Angry,0.0
-annoy 6,7,Neutral,0.5
-annoy 6,8,Angry,0.0
-annoy 6,9,Angry,0.0
-annoy 6,10,Neutral,0.5
-annoy 6,11,Angry,0.0
-annoy 6,12,Angry,0.0
-annoy 6,13,Angry,0.0
-annoy 6,14,Angry,0.0
-annoy 6,15,Angry,0.0
-annoy 6,16,Neutral,0.5
-annoy 6,17,Angry,0.0
-annoy 6,18,Angry,0.0
-annoy 6,19,Angry,0.0
-annoy 6,20,Angry,0.0
-annoy 6,21,Neutral,0.5
-annoy 6,22,Angry,0.0
-annoy 6,23,Angry,0.0
-annoy 6,24,Angry,0.0
-annoy 6,25,Angry,0.0
-annoy 6,26,Angry,0.0
-annoy 6,27,Angry,0.0
-annoy 6,28,Angry,0.0
-annoy 6,29,Angry,0.0
-annoy 6,30,Angry,0.0
-annoy 6,31,Angry,0.0
-annoy 6,32,Angry,0.0
-annoy 6,33,Angry,0.0
-annoy 6,34,Angry,0.0
-annoy 6,35,Angry,0.0
-annoy 6,36,Angry,0.0
-annoy 6,37,Angry,0.0
-annoy 6,38,Neutral,0.5
-annoy 6,39,Angry,0.0
-annoy 6,40,Angry,0.0
-annoy 6,41,Angry,0.0
-annoy 6,42,Angry,0.0
-annoy 6,43,Angry,0.0
-annoy 6,44,Angry,0.0
-annoy 6,45,Angry,0.0
-annoy 6,46,Angry,0.0
-annoy 6,47,Angry,0.0
-annoy 1,0,Neutral,0.5
-annoy 1,1,Neutral,0.5
-annoy 1,2,Neutral,0.5
-annoy 1,3,Neutral,0.5
-annoy 1,4,Neutral,0.5
-annoy 1,5,Neutral,0.5
-annoy 1,6,Neutral,0.5
-annoy 1,7,Neutral,0.5
-annoy 1,8,Neutral,0.5
-annoy 1,9,Neutral,0.5
-annoy 1,10,Angry,0.0
-annoy 1,11,Angry,0.0
-annoy 1,12,Angry,0.0
-annoy 1,13,Neutral,0.5
-annoy 1,14,Neutral,0.5
-annoy 1,15,Neutral,0.5
-annoy 1,16,Neutral,0.5
-annoy 1,17,Neutral,0.5
-annoy 1,18,Neutral,0.5
-annoy 1,19,Angry,0.0
-annoy 1,20,Angry,0.0
-annoy 1,21,Angry,0.0
-annoy 1,22,Angry,0.0
-annoy 1,23,Angry,0.0
-annoy 1,24,Angry,0.0
-annoy 1,25,Angry,0.0
-annoy 1,26,Angry,0.0
-annoy 1,27,Angry,0.0
-annoy 1,28,Angry,0.0
-annoy 1,29,Angry,0.0
-annoy 1,30,Neutral,0.5
-annoy 1,31,Neutral,0.5
-annoy 1,32,Neutral,0.5
-annoy 1,33,Neutral,0.5
-annoy 1,34,Neutral,0.5
-annoy 1,35,Neutral,0.5
-annoy 1,36,Angry,0.0
-annoy 1,37,Neutral,0.5
-annoy 1,38,Neutral,0.5
-annoy 1,39,Angry,0.0
-annoy 1,40,Angry,0.0
-annoy 1,41,Neutral,0.5
-annoy 1,42,Neutral,0.5
-annoy 1,43,Neutral,0.5
-annoy 1,44,Neutral,0.5
-annoy 1,45,Neutral,0.5
-annoy 1,46,Neutral,0.5
-annoy 1,47,Neutral,0.5
-annoy 1,48,Neutral,0.5
-annoy 1,49,Neutral,0.5
-annoy 1,50,Neutral,0.5
-annoy 1,51,Neutral,0.5
-annoy 1,52,Neutral,0.5
-annoy 1,53,Angry,0.0
-annoy 1,54,Neutral,0.5
-annoy 1,55,Neutral,0.5
-annoy 1,56,Angry,0.0
-annoy 1,57,Neutral,0.5
-annoy 1,58,Neutral,0.5
-annoy 1,59,Neutral,0.5
-annoy 1,60,Neutral,0.5
-annoy 1,61,Neutral,0.5
-annoy 1,62,Angry,0.0
-annoy 1,63,Neutral,0.5
-annoy 1,64,Neutral,0.5
-annoy 1,65,Neutral,0.5
-annoy 1,66,Neutral,0.5
-annoy 1,67,Neutral,0.5
-annoy 1,68,Neutral,0.5
-annoy 1,69,Neutral,0.5
-annoy 1,70,Happy,1.0
-annoy 1,71,Happy,1.0
-annoy 1,72,Neutral,0.5
-annoy 1,73,Neutral,0.5
-annoy 1,74,Neutral,0.5
-annoy 1,75,Neutral,0.5
-annoy 1,76,Neutral,0.5
-annoy 1,77,Neutral,0.5
-annoy 1,78,Neutral,0.5
-annoy 1,79,Neutral,0.5
-annoy 1,80,Neutral,0.5
-annoy 1,81,Neutral,0.5
-annoy 1,82,Neutral,0.5
-annoy 1,83,Neutral,0.5
-annoy 1,84,Neutral,0.5
-annoy 1,85,Sad,0.0
-annoy 1,86,Sad,0.0
-annoy 1,87,Angry,0.0
-annoy 1,88,Angry,0.0
-annoy 1,89,Angry,0.0
-annoy 1,90,Angry,0.0
-annoy 1,91,Angry,0.0
-annoy 1,92,Neutral,0.5
-annoy 1,93,Neutral,0.5
-annoy 1,94,Neutral,0.5
-annoy 1,95,Angry,0.0
-annoy 1,96,Angry,0.0
-annoy 1,97,Angry,0.0
-annoy 1,98,Angry,0.0
-annoy 1,99,Angry,0.0
-annoy 1,100,Angry,0.0
-annoy 1,101,Angry,0.0
-annoy 1,102,Neutral,0.5
-annoy 1,103,Neutral,0.5
-annoy 1,104,Angry,0.0
-annoy 1,105,Angry,0.0
-annoy 1,106,Angry,0.0
-annoy 1,107,Angry,0.0
-annoy 1,108,Angry,0.0
-annoy 1,109,Angry,0.0
-annoy 1,110,Neutral,0.5
-annoy 1,111,Neutral,0.5
-annoy 1,112,Neutral,0.5
-annoy 1,113,Neutral,0.5
-annoy 1,114,Neutral,0.5
-annoy 1,115,Neutral,0.5
-annoy 1,116,Neutral,0.5
-annoy 1,117,Neutral,0.5
-annoy 1,118,Neutral,0.5
-annoy 1,119,Neutral,0.5
-annoy 1,120,Neutral,0.5
-annoy 1,121,Neutral,0.5
-annoy 1,122,Neutral,0.5
-annoy 1,123,Neutral,0.5
-annoy 1,124,Neutral,0.5
-annoy 1,125,Neutral,0.5
-annoy 1,126,Neutral,0.5
-annoy 1,127,Angry,0.0
-annoy 1,128,Angry,0.0
-annoy 1,129,Neutral,0.5
-annoy 1,130,Neutral,0.5
-annoy 1,131,Neutral,0.5
-annoy 1,132,Neutral,0.5
-annoy 1,133,Neutral,0.5
-annoy 1,134,Neutral,0.5
-annoy 1,135,Neutral,0.5
-annoy 1,136,Neutral,0.5
-annoy 1,137,Neutral,0.5
-annoy 1,138,Neutral,0.5
-annoy 1,139,Neutral,0.5
-annoy 1,140,Happy,1.0
-annoy 1,141,Neutral,0.5
-annoy 1,142,Angry,0.0
-annoy 1,143,Neutral,0.5
-annoy 1,144,Angry,0.0
-annoy 1,145,Angry,0.0
-annoy 1,146,Angry,0.0
-annoy 1,147,Angry,0.0
-Anger 1,0,Neutral,0.5
-Anger 1,1,Neutral,0.5
-Anger 1,2,Neutral,0.5
-Anger 1,3,Neutral,0.5
-Anger 1,4,Neutral,0.5
-Anger 1,5,Neutral,0.5
-Anger 1,6,Neutral,0.5
-Anger 1,7,Angry,0.0
-Anger 1,8,Neutral,0.5
-Anger 1,9,Neutral,0.5
-Anger 1,10,Neutral,0.5
-Anger 1,11,Neutral,0.5
-Anger 1,12,Neutral,0.5
-Anger 1,13,Neutral,0.5
-Anger 1,14,Angry,0.0
-Anger 1,15,Neutral,0.5
-Anger 1,16,Angry,0.0
-Anger 1,17,Neutral,0.5
-Anger 1,18,Neutral,0.5
-Anger 1,19,Neutral,0.5
-Anger 1,20,Neutral,0.5
-Anger 1,21,Neutral,0.5
-Anger 1,22,Neutral,0.5
-Anger 1,23,Neutral,0.5
-Anger 1,24,Neutral,0.5
-Anger 1,25,Neutral,0.5
-Anger 1,26,Neutral,0.5
-Anger 1,27,Neutral,0.5
-Anger 1,28,Neutral,0.5
-Anger 1,29,Neutral,0.5
-Anger 1,30,Neutral,0.5
-Anger 1,31,Angry,0.0
-Anger 1,32,Angry,0.0
-Anger 1,33,Angry,0.0
-Anger 1,34,Neutral,0.5
-Anger 1,35,Angry,0.0
-Anger 1,36,Angry,0.0
-Anger 1,37,Angry,0.0
-Anger 1,38,Neutral,0.5
-Anger 1,39,Angry,0.0
-Anger 1,40,Angry,0.0
-Anger 1,41,Angry,0.0
-Anger 1,42,Neutral,0.5
-Anger 1,43,Angry,0.0
-Anger 1,44,Angry,0.0
-Anger 1,45,Angry,0.0
-Anger 1,46,Angry,0.0
-Anger 1,47,Angry,0.0
-Anger 1,48,Angry,0.0
-Anger 1,49,Angry,0.0
-Anger 1,50,Neutral,0.5
-Anger 1,51,Angry,0.0
-Anger 1,52,Angry,0.0
-Anger 1,53,Angry,0.0
-Anger 1,54,Angry,0.0
-Anger 1,55,Angry,0.0
-Anger 1,56,Neutral,0.5
-Anger 1,57,Neutral,0.5
-Anger 1,58,Neutral,0.5
-Anger 1,59,Neutral,0.0
-joy 2,0,Happy,1.0
-joy 2,1,Happy,1.0
-joy 2,2,Happy,1.0
-joy 2,3,Happy,1.0
-joy 2,4,Neutral,0.5
-joy 2,5,Neutral,0.5
-joy 2,6,Happy,1.0
-joy 2,7,Happy,1.0
-joy 2,8,Neutral,0.5
-joy 2,9,Neutral,0.5
-joy 2,10,Happy,1.0
-joy 2,11,Happy,1.0
-joy 2,12,Happy,1.0
-Anger 2,0,Neutral,0.5
-Anger 2,1,Neutral,0.5
-Anger 2,2,Neutral,0.5
-Anger 2,3,Angry,0.0
-Anger 2,4,Angry,0.0
-Anger 2,5,Neutral,0.5
-Anger 2,6,Angry,0.0
-Anger 2,7,Neutral,0.5
-Anger 2,8,Angry,0.0
-Anger 2,9,Angry,0.0
-Anger 2,10,Angry,0.0
-Anger 2,11,Angry,0.0
-Anger 2,12,Neutral,0.5
-Anger 2,13,Neutral,0.5
-Anger 2,14,Neutral,0.5
-Anger 2,15,Neutral,0.5
-Anger 2,16,Neutral,0.5
-Anger 2,17,Neutral,0.0
-annoy 3,0,Neutral,0.5
-annoy 3,1,Neutral,0.5
-annoy 3,2,Neutral,0.5
-annoy 3,3,Neutral,0.5
-annoy 3,4,Neutral,0.5
-annoy 3,5,Neutral,0.5
-annoy 3,6,Neutral,0.5
-annoy 3,7,Neutral,0.5
-annoy 3,8,Neutral,0.5
-annoy 3,9,Neutral,0.5
-annoy 3,10,Neutral,0.5
-annoy 3,11,Neutral,0.5
-annoy 3,12,Neutral,0.5
-annoy 3,13,Neutral,0.5
-annoy 3,14,Neutral,0.5
-annoy 3,15,Neutral,0.5
-annoy 3,16,Neutral,0.5
-annoy 3,17,Neutral,0.5
-annoy 3,18,Neutral,0.5
-annoy 3,19,Neutral,0.5
-annoy 3,20,Neutral,0.5
-annoy 3,21,Neutral,0.5
-annoy 3,22,Neutral,0.5
-annoy 3,23,Neutral,0.5
-annoy 3,24,Neutral,0.5
-annoy 3,25,Angry,0.0
-annoy 3,26,Angry,0.0
-annoy 3,27,Angry,0.0
-annoy 3,28,Neutral,0.5
-annoy 3,29,Neutral,0.5
-annoy 3,30,Neutral,0.5
-annoy 3,31,Neutral,0.5
-annoy 3,32,Neutral,0.5
-annoy 3,33,Neutral,0.5
-annoy 3,34,Neutral,0.5
-annoy 3,35,Neutral,0.5
-annoy 3,36,Angry,0.0
-annoy 3,37,Angry,0.0
-annoy 3,38,Angry,0.0
-annoy 3,39,Angry,0.0
-annoy 3,40,Angry,0.0
-annoy 3,41,Angry,0.0
-annoy 3,42,Angry,0.0
-annoy 3,43,Angry,0.0
-annoy 3,44,Neutral,0.5
-annoy 3,45,Neutral,0.5
-annoy 3,46,Neutral,0.5
-annoy 3,47,Neutral,0.5
-annoy 3,48,Neutral,0.5
-annoy 3,49,Neutral,0.5
-annoy 3,50,Neutral,0.5
-annoy 3,51,Angry,0.0
-annoy 3,52,Angry,0.0
-annoy 3,53,Angry,0.0
-annoy 3,54,Angry,0.0
-annoy 3,55,Angry,0.0
-annoy 3,56,Angry,0.0
-annoy 3,57,Neutral,0.5
-annoy 3,58,Neutral,0.5
-annoy 3,59,Neutral,0.5
-annoy 3,60,Neutral,0.5
-annoy 3,61,Neutral,0.5
-annoy 3,62,Neutral,0.5
-annoy 3,63,Neutral,0.5
-annoy 3,64,Angry,0.0
-annoy 3,65,Angry,0.0
-annoy 3,66,Angry,0.0
-annoy 3,67,Angry,0.0
-annoy 3,68,Angry,0.0
-annoy 3,69,Angry,0.0
-annoy 3,70,Neutral,0.5
-annoy 3,71,Neutral,0.5
-annoy 3,72,Neutral,0.5
-annoy 3,73,Neutral,0.5
-annoy 3,74,Neutral,0.5
-annoy 3,75,Neutral,0.5
-annoy 3,76,Neutral,0.5
-annoy 3,77,Neutral,0.5
-annoy 3,78,Neutral,0.5
-annoy 3,79,Neutral,0.5
-annoy 3,80,Neutral,0.5
-annoy 3,81,Neutral,0.5
-annoy 3,82,Neutral,0.5
-annoy 3,83,Neutral,0.5
-annoy 3,84,Angry,0.0
-annoy 3,85,Angry,0.0
-annoy 3,86,Angry,0.0
-annoy 3,87,Angry,0.0
-annoy 3,88,Angry,0.0
-annoy 3,89,Angry,0.0
-annoy 3,90,Angry,0.0
-annoy 3,91,Neutral,0.5
-annoy 3,92,Neutral,0.5
-annoy 3,93,Neutral,0.5
-annoy 3,94,Neutral,0.5
-annoy 3,95,Neutral,0.5
-annoy 3,96,Neutral,0.5
-annoy 3,97,Neutral,0.5
-annoy 3,98,Neutral,0.5
-annoy 3,99,Neutral,0.5
-annoy 3,100,Neutral,0.5
-annoy 3,101,Angry,0.0
-annoy 3,102,Angry,0.0
-annoy 3,103,Angry,0.0
-annoy 3,104,Angry,0.0
-annoy 3,105,Angry,0.0
-annoy 3,106,Angry,0.0
-annoy 3,107,Neutral,0.5
-annoy 3,108,Neutral,0.5
-annoy 3,109,Neutral,0.5
-annoy 3,110,Neutral,0.5
-annoy 3,111,Angry,0.0
-annoy 3,112,Angry,0.0
-annoy 3,113,Angry,0.0
-annoy 3,114,Angry,0.0
-annoy 3,115,Angry,0.0
-annoy 3,116,Angry,0.0
-annoy 3,117,Angry,0.0
-annoy 3,118,Angry,0.0
-annoy 3,119,Angry,0.0
-annoy 3,120,Angry,0.0
-annoy 3,121,Angry,0.0
-annoy 3,122,Neutral,0.5
-annoy 3,123,Neutral,0.5
-annoy 3,124,Neutral,0.5
-annoy 3,125,Neutral,0.5
-annoy 3,126,Neutral,0.5
-annoy 3,127,Neutral,0.5
-annoy 3,128,Neutral,0.5
-annoy 3,129,Neutral,0.5
-annoy 3,130,Angry,0.0
-annoy 3,131,Neutral,0.5
-annoy 3,132,Angry,0.0
-annoy 3,133,Angry,0.0
-annoy 3,134,Neutral,0.5
-annoy 3,135,Neutral,0.5
-annoy 3,136,Neutral,0.5
-annoy 3,137,Neutral,0.5
-annoy 3,138,Neutral,0.5
-annoy 3,139,Neutral,0.5
-annoy 3,140,Neutral,0.5
-annoy 3,141,Neutral,0.5
-annoy 3,142,Neutral,0.5
-annoy 3,143,Neutral,0.5
-annoy 3,144,Neutral,0.5
-annoy 3,145,Neutral,0.5
-annoy 3,146,Neutral,0.5
-annoy 3,147,Neutral,0.5
-annoy 3,148,Neutral,0.5
-annoy 3,149,Angry,0.0
-annoy 3,150,Angry,0.0
-annoy 3,151,Angry,0.0
-annoy 3,152,Angry,0.0
-annoy 3,153,Angry,0.0
-annoy 3,154,Angry,0.0
-annoy 3,155,Neutral,0.5
-annoy 3,156,Neutral,0.5
-annoy 3,157,Neutral,0.5
-annoy 3,158,Neutral,0.5
-annoy 3,159,Neutral,0.5
-annoy 3,160,Neutral,0.5
-annoy 3,161,Neutral,0.5
-annoy 3,162,Angry,0.0
-annoy 3,163,Angry,0.0
-Anger 3,0,Neutral,0.5
-Anger 3,1,Neutral,0.5
-Anger 3,2,Neutral,0.5
-Anger 3,3,Anger,0.0
-Anger 3,4,Anger,0.0
-Anger 3,5,Anger,0.0
-Anger 3,6,Anger,0.0
-Anger 3,7,Anger,0.0
-Anger 3,8,Anger,0.0
-Anger 3,9,Anger,0.0
-Anger 3,10,Neutral,0.5
-Anger 3,11,Anger,0.0
-Anger 3,12,Anger,0.0
-Anger 3,13,Anger,0.0
-Anger 3,14,Neutral,0.5
-Anger 3,15,Neutral,0.5
-Anger 3,16,Neutral,0.5
-Anger 3,17,Neutral,0.5
-Anger 3,18,Neutral,0.5
-Anger 3,19,Neutral,0.5
-Anger 3,20,Neutral,0.5
-Anger 3,21,Neutral,0.5
-Anger 3,22,Neutral,0.5
-Anger 3,23,Neutral,0.5
-Anger 3,24,Neutral,0.5
-Anger 3,25,Neutral,0.5
-Anger 3,26,Neutral,0.5
-Anger 3,27,Neutral,0.5
-Anger 3,28,Neutral,0.5
-Anger 3,29,Neutral,0.5
-Anger 3,30,Neutral,0.5
-Anger 3,31,Neutral,0.5
-Anger 3,32,Neutral,0.5
-Anger 3,33,Neutral,0.5
-Anger 3,34,Neutral,0.5
-Anger 3,35,Anger,0.0
-Anger 3,36,Neutral,0.5
-Anger 3,37,Neutral,0.5
-Anger 3,38,Neutral,0.5
-Anger 3,39,Neutral,0.5
-Anger 3,40,Neutral,0.5
-Anger 3,41,Neutral,0.5
-Anger 3,42,Anger,0.0
-Anger 3,43,Neutral,0.5
-Anger 3,44,Neutral,0.5
-Anger 3,45,Neutral,0.5
-Anger 3,46,Neutral,0.5
-Anger 3,47,Neutral,0.5
-Anger 3,48,Neutral,0.5
-Anger 3,49,Neutral,0.5
-Anger 3,50,Neutral,0.5
-Anger 3,51,Neutral,0.5
-Anger 3,52,Neutral,0.5
-Anger 3,53,Anger,0.0
-Anger 3,54,Anger,0.0
-Anger 3,55,Neutral,0.5
-Anger 3,56,Neutral,0.5
-Anger 3,57,Neutral,0.5
-Anger 3,58,Neutral,0.5
-Anger 3,59,Anger,0.0
-Anger 3,60,Anger,0.0
-Anger 3,61,Neutral,0.5
-Anger 3,62,Anger,0.0
-Anger 3,63,Anger,0.0
-Anger 3,64,Anger,0.0
-Anger 3,65,Anger,0.0
+﻿video_id,time,label,type
+joy_5,0,Happy,1
+joy_5,1,Neutral,0.5
+joy_5,2,Happy,1
+joy_5,3,Happy,1
+joy_5,4,Happy,1
+joy_5,5,Happy,1
+joy_5,6,Happy,1
+joy_5,7,Happy,1
+joy_5,8,Happy,1
+joy_5,9,Happy,1
+joy_5,10,Happy,1
+joy_5,11,Happy,1
+joy_5,12,Neutral,0.5
+joy_5,13,Happy,1
+joy_5,14,Happy,1
+joy_5,15,Happy,1
+joy_5,16,Happy,1
+joy_5,17,Neutral,0.5
+joy_5,18,Neutral,0.5
+joy_5,19,Happy,1
+joy_5,20,Happy,1
+joy_5,21,Happy,1
+joy_5,22,Happy,1
+joy_5,23,Happy,1
+joy_5,24,Happy,1
+joy_5,25,Happy,1
+joy_5,26,Neutral,0.5
+joy_5,27,Neutral,0.5
+joy_5,28,Happy,1
+joy_5,29,Happy,1
+joy_5,30,Happy,1
+joy_5,31,Happy,1
+joy_5,32,Neutral,0.5
+joy_5,33,Happy,1
+joy_5,34,Happy,1
+joy_5,35,Happy,1
+joy_5,36,Happy,1
+joy_5,37,Neutral,0.5
+joy_5,38,Neutral,0.5
+joy_5,39,Neutral,0.5
+joy_5,40,Happy,1
+joy_5,41,Happy,1
+joy_5,42,Happy,1
+joy_5,43,Happy,1
+joy_5,44,Neutral,0.5
+joy_5,45,Neutral,0.5
+joy_5,46,Neutral,0.5
+joy_5,47,Happy,1
+joy_5,48,Happy,1
+annoy_6,0,Neutral,0.5
+annoy_6,1,Neutral,0.5
+annoy_6,2,Neutral,0.5
+annoy_6,3,Neutral,0.5
+annoy_6,4,Angry,0
+annoy_6,5,Angry,0
+annoy_6,6,Angry,0
+annoy_6,7,Neutral,0.5
+annoy_6,8,Angry,0
+annoy_6,9,Angry,0
+annoy_6,10,Neutral,0.5
+annoy_6,11,Angry,0
+annoy_6,12,Angry,0
+annoy_6,13,Angry,0
+annoy_6,14,Angry,0
+annoy_6,15,Angry,0
+annoy_6,16,Neutral,0.5
+annoy_6,17,Angry,0
+annoy_6,18,Angry,0
+annoy_6,19,Angry,0
+annoy_6,20,Angry,0
+annoy_6,21,Neutral,0.5
+annoy_6,22,Angry,0
+annoy_6,23,Angry,0
+annoy_6,24,Angry,0
+annoy_6,25,Angry,0
+annoy_6,26,Angry,0
+annoy_6,27,Angry,0
+annoy_6,28,Angry,0
+annoy_6,29,Angry,0
+annoy_6,30,Angry,0
+annoy_6,31,Angry,0
+annoy_6,32,Angry,0
+annoy_6,33,Angry,0
+annoy_6,34,Angry,0
+annoy_6,35,Angry,0
+annoy_6,36,Angry,0
+annoy_6,37,Angry,0
+annoy_6,38,Neutral,0.5
+annoy_6,39,Angry,0
+annoy_6,40,Angry,0
+annoy_6,41,Angry,0
+annoy_6,42,Angry,0
+annoy_6,43,Angry,0
+annoy_6,44,Angry,0
+annoy_6,45,Angry,0
+annoy_6,46,Angry,0
+annoy_6,47,Angry,0
+annoy_1,0,Neutral,0.5
+annoy_1,1,Neutral,0.5
+annoy_1,2,Neutral,0.5
+annoy_1,3,Neutral,0.5
+annoy_1,4,Neutral,0.5
+annoy_1,5,Neutral,0.5
+annoy_1,6,Neutral,0.5
+annoy_1,7,Neutral,0.5
+annoy_1,8,Neutral,0.5
+annoy_1,9,Neutral,0.5
+annoy_1,10,Angry,0
+annoy_1,11,Angry,0
+annoy_1,12,Angry,0
+annoy_1,13,Neutral,0.5
+annoy_1,14,Neutral,0.5
+annoy_1,15,Neutral,0.5
+annoy_1,16,Neutral,0.5
+annoy_1,17,Neutral,0.5
+annoy_1,18,Neutral,0.5
+annoy_1,19,Angry,0
+annoy_1,20,Angry,0
+annoy_1,21,Angry,0
+annoy_1,22,Angry,0
+annoy_1,23,Angry,0
+annoy_1,24,Angry,0
+annoy_1,25,Angry,0
+annoy_1,26,Angry,0
+annoy_1,27,Angry,0
+annoy_1,28,Angry,0
+annoy_1,29,Angry,0
+annoy_1,30,Neutral,0.5
+annoy_1,31,Neutral,0.5
+annoy_1,32,Neutral,0.5
+annoy_1,33,Neutral,0.5
+annoy_1,34,Neutral,0.5
+annoy_1,35,Neutral,0.5
+annoy_1,36,Angry,0
+annoy_1,37,Neutral,0.5
+annoy_1,38,Neutral,0.5
+annoy_1,39,Angry,0
+annoy_1,40,Angry,0
+annoy_1,41,Neutral,0.5
+annoy_1,42,Neutral,0.5
+annoy_1,43,Neutral,0.5
+annoy_1,44,Neutral,0.5
+annoy_1,45,Neutral,0.5
+annoy_1,46,Neutral,0.5
+annoy_1,47,Neutral,0.5
+annoy_1,48,Neutral,0.5
+annoy_1,49,Neutral,0.5
+annoy_1,50,Neutral,0.5
+annoy_1,51,Neutral,0.5
+annoy_1,52,Neutral,0.5
+annoy_1,53,Angry,0
+annoy_1,54,Neutral,0.5
+annoy_1,55,Neutral,0.5
+annoy_1,56,Angry,0
+annoy_1,57,Neutral,0.5
+annoy_1,58,Neutral,0.5
+annoy_1,59,Neutral,0.5
+annoy_1,60,Neutral,0.5
+annoy_1,61,Neutral,0.5
+annoy_1,62,Angry,0
+annoy_1,63,Neutral,0.5
+annoy_1,64,Neutral,0.5
+annoy_1,65,Neutral,0.5
+annoy_1,66,Neutral,0.5
+annoy_1,67,Neutral,0.5
+annoy_1,68,Neutral,0.5
+annoy_1,69,Neutral,0.5
+annoy_1,70,Happy,1
+annoy_1,71,Happy,1
+annoy_1,72,Neutral,0.5
+annoy_1,73,Neutral,0.5
+annoy_1,74,Neutral,0.5
+annoy_1,75,Neutral,0.5
+annoy_1,76,Neutral,0.5
+annoy_1,77,Neutral,0.5
+annoy_1,78,Neutral,0.5
+annoy_1,79,Neutral,0.5
+annoy_1,80,Neutral,0.5
+annoy_1,81,Neutral,0.5
+annoy_1,82,Neutral,0.5
+annoy_1,83,Neutral,0.5
+annoy_1,84,Neutral,0.5
+annoy_1,85,Sad,0
+annoy_1,86,Sad,0
+annoy_1,87,Angry,0
+annoy_1,88,Angry,0
+annoy_1,89,Angry,0
+annoy_1,90,Angry,0
+annoy_1,91,Angry,0
+annoy_1,92,Neutral,0.5
+annoy_1,93,Neutral,0.5
+annoy_1,94,Neutral,0.5
+annoy_1,95,Angry,0
+annoy_1,96,Angry,0
+annoy_1,97,Angry,0
+annoy_1,98,Angry,0
+annoy_1,99,Angry,0
+annoy_1,100,Angry,0
+annoy_1,101,Angry,0
+annoy_1,102,Neutral,0.5
+annoy_1,103,Neutral,0.5
+annoy_1,104,Angry,0
+annoy_1,105,Angry,0
+annoy_1,106,Angry,0
+annoy_1,107,Angry,0
+annoy_1,108,Angry,0
+annoy_1,109,Angry,0
+annoy_1,110,Neutral,0.5
+annoy_1,111,Neutral,0.5
+annoy_1,112,Neutral,0.5
+annoy_1,113,Neutral,0.5
+annoy_1,114,Neutral,0.5
+annoy_1,115,Neutral,0.5
+annoy_1,116,Neutral,0.5
+annoy_1,117,Neutral,0.5
+annoy_1,118,Neutral,0.5
+annoy_1,119,Neutral,0.5
+annoy_1,120,Neutral,0.5
+annoy_1,121,Neutral,0.5
+annoy_1,122,Neutral,0.5
+annoy_1,123,Neutral,0.5
+annoy_1,124,Neutral,0.5
+annoy_1,125,Neutral,0.5
+annoy_1,126,Neutral,0.5
+annoy_1,127,Angry,0
+annoy_1,128,Angry,0
+annoy_1,129,Neutral,0.5
+annoy_1,130,Neutral,0.5
+annoy_1,131,Neutral,0.5
+annoy_1,132,Neutral,0.5
+annoy_1,133,Neutral,0.5
+annoy_1,134,Neutral,0.5
+annoy_1,135,Neutral,0.5
+annoy_1,136,Neutral,0.5
+annoy_1,137,Neutral,0.5
+annoy_1,138,Neutral,0.5
+annoy_1,139,Neutral,0.5
+annoy_1,140,Happy,1
+annoy_1,141,Neutral,0.5
+annoy_1,142,Angry,0
+annoy_1,143,Neutral,0.5
+annoy_1,144,Angry,0
+annoy_1,145,Angry,0
+annoy_1,146,Angry,0
+annoy_1,147,Angry,0
+Anger_1,0,Neutral,0.5
+Anger_1,1,Neutral,0.5
+Anger_1,2,Neutral,0.5
+Anger_1,3,Neutral,0.5
+Anger_1,4,Neutral,0.5
+Anger_1,5,Neutral,0.5
+Anger_1,6,Neutral,0.5
+Anger_1,7,Angry,0
+Anger_1,8,Neutral,0.5
+Anger_1,9,Neutral,0.5
+Anger_1,10,Neutral,0.5
+Anger_1,11,Neutral,0.5
+Anger_1,12,Neutral,0.5
+Anger_1,13,Neutral,0.5
+Anger_1,14,Angry,0
+Anger_1,15,Neutral,0.5
+Anger_1,16,Angry,0
+Anger_1,17,Neutral,0.5
+Anger_1,18,Neutral,0.5
+Anger_1,19,Neutral,0.5
+Anger_1,20,Neutral,0.5
+Anger_1,21,Neutral,0.5
+Anger_1,22,Neutral,0.5
+Anger_1,23,Neutral,0.5
+Anger_1,24,Neutral,0.5
+Anger_1,25,Neutral,0.5
+Anger_1,26,Neutral,0.5
+Anger_1,27,Neutral,0.5
+Anger_1,28,Neutral,0.5
+Anger_1,29,Neutral,0.5
+Anger_1,30,Neutral,0.5
+Anger_1,31,Angry,0
+Anger_1,32,Angry,0
+Anger_1,33,Angry,0
+Anger_1,34,Neutral,0.5
+Anger_1,35,Angry,0
+Anger_1,36,Angry,0
+Anger_1,37,Angry,0
+Anger_1,38,Neutral,0.5
+Anger_1,39,Angry,0
+Anger_1,40,Angry,0
+Anger_1,41,Angry,0
+Anger_1,42,Neutral,0.5
+Anger_1,43,Angry,0
+Anger_1,44,Angry,0
+Anger_1,45,Angry,0
+Anger_1,46,Angry,0
+Anger_1,47,Angry,0
+Anger_1,48,Angry,0
+Anger_1,49,Angry,0
+Anger_1,50,Neutral,0.5
+Anger_1,51,Angry,0
+Anger_1,52,Angry,0
+Anger_1,53,Angry,0
+Anger_1,54,Angry,0
+Anger_1,55,Angry,0
+Anger_1,56,Neutral,0.5
+Anger_1,57,Neutral,0.5
+Anger_1,58,Neutral,0.5
+Anger_1,59,Neutral,0
+joy_2,0,Happy,1
+joy_2,1,Happy,1
+joy_2,2,Happy,1
+joy_2,3,Happy,1
+joy_2,4,Neutral,0.5
+joy_2,5,Neutral,0.5
+joy_2,6,Happy,1
+joy_2,7,Happy,1
+joy_2,8,Neutral,0.5
+joy_2,9,Neutral,0.5
+joy_2,10,Happy,1
+joy_2,11,Happy,1
+joy_2,12,Happy,1
+Anger_2,0,Neutral,0.5
+Anger_2,1,Neutral,0.5
+Anger_2,2,Neutral,0.5
+Anger_2,3,Angry,0
+Anger_2,4,Angry,0
+Anger_2,5,Neutral,0.5
+Anger_2,6,Angry,0
+Anger_2,7,Neutral,0.5
+Anger_2,8,Angry,0
+Anger_2,9,Angry,0
+Anger_2,10,Angry,0
+Anger_2,11,Angry,0
+Anger_2,12,Neutral,0.5
+Anger_2,13,Neutral,0.5
+Anger_2,14,Neutral,0.5
+Anger_2,15,Neutral,0.5
+Anger_2,16,Neutral,0.5
+Anger_2,17,Neutral,0
+annoy_3,0,Neutral,0.5
+annoy_3,1,Neutral,0.5
+annoy_3,2,Neutral,0.5
+annoy_3,3,Neutral,0.5
+annoy_3,4,Neutral,0.5
+annoy_3,5,Neutral,0.5
+annoy_3,6,Neutral,0.5
+annoy_3,7,Neutral,0.5
+annoy_3,8,Neutral,0.5
+annoy_3,9,Neutral,0.5
+annoy_3,10,Neutral,0.5
+annoy_3,11,Neutral,0.5
+annoy_3,12,Neutral,0.5
+annoy_3,13,Neutral,0.5
+annoy_3,14,Neutral,0.5
+annoy_3,15,Neutral,0.5
+annoy_3,16,Neutral,0.5
+annoy_3,17,Neutral,0.5
+annoy_3,18,Neutral,0.5
+annoy_3,19,Neutral,0.5
+annoy_3,20,Neutral,0.5
+annoy_3,21,Neutral,0.5
+annoy_3,22,Neutral,0.5
+annoy_3,23,Neutral,0.5
+annoy_3,24,Neutral,0.5
+annoy_3,25,Angry,0
+annoy_3,26,Angry,0
+annoy_3,27,Angry,0
+annoy_3,28,Neutral,0.5
+annoy_3,29,Neutral,0.5
+annoy_3,30,Neutral,0.5
+annoy_3,31,Neutral,0.5
+annoy_3,32,Neutral,0.5
+annoy_3,33,Neutral,0.5
+annoy_3,34,Neutral,0.5
+annoy_3,35,Neutral,0.5
+annoy_3,36,Angry,0
+annoy_3,37,Angry,0
+annoy_3,38,Angry,0
+annoy_3,39,Angry,0
+annoy_3,40,Angry,0
+annoy_3,41,Angry,0
+annoy_3,42,Angry,0
+annoy_3,43,Angry,0
+annoy_3,44,Neutral,0.5
+annoy_3,45,Neutral,0.5
+annoy_3,46,Neutral,0.5
+annoy_3,47,Neutral,0.5
+annoy_3,48,Neutral,0.5
+annoy_3,49,Neutral,0.5
+annoy_3,50,Neutral,0.5
+annoy_3,51,Angry,0
+annoy_3,52,Angry,0
+annoy_3,53,Angry,0
+annoy_3,54,Angry,0
+annoy_3,55,Angry,0
+annoy_3,56,Angry,0
+annoy_3,57,Neutral,0.5
+annoy_3,58,Neutral,0.5
+annoy_3,59,Neutral,0.5
+annoy_3,60,Neutral,0.5
+annoy_3,61,Neutral,0.5
+annoy_3,62,Neutral,0.5
+annoy_3,63,Neutral,0.5
+annoy_3,64,Angry,0
+annoy_3,65,Angry,0
+annoy_3,66,Angry,0
+annoy_3,67,Angry,0
+annoy_3,68,Angry,0
+annoy_3,69,Angry,0
+annoy_3,70,Neutral,0.5
+annoy_3,71,Neutral,0.5
+annoy_3,72,Neutral,0.5
+annoy_3,73,Neutral,0.5
+annoy_3,74,Neutral,0.5
+annoy_3,75,Neutral,0.5
+annoy_3,76,Neutral,0.5
+annoy_3,77,Neutral,0.5
+annoy_3,78,Neutral,0.5
+annoy_3,79,Neutral,0.5
+annoy_3,80,Neutral,0.5
+annoy_3,81,Neutral,0.5
+annoy_3,82,Neutral,0.5
+annoy_3,83,Neutral,0.5
+annoy_3,84,Angry,0
+annoy_3,85,Angry,0
+annoy_3,86,Angry,0
+annoy_3,87,Angry,0
+annoy_3,88,Angry,0
+annoy_3,89,Angry,0
+annoy_3,90,Angry,0
+annoy_3,91,Neutral,0.5
+annoy_3,92,Neutral,0.5
+annoy_3,93,Neutral,0.5
+annoy_3,94,Neutral,0.5
+annoy_3,95,Neutral,0.5
+annoy_3,96,Neutral,0.5
+annoy_3,97,Neutral,0.5
+annoy_3,98,Neutral,0.5
+annoy_3,99,Neutral,0.5
+annoy_3,100,Neutral,0.5
+annoy_3,101,Angry,0
+annoy_3,102,Angry,0
+annoy_3,103,Angry,0
+annoy_3,104,Angry,0
+annoy_3,105,Angry,0
+annoy_3,106,Angry,0
+annoy_3,107,Neutral,0.5
+annoy_3,108,Neutral,0.5
+annoy_3,109,Neutral,0.5
+annoy_3,110,Neutral,0.5
+annoy_3,111,Angry,0
+annoy_3,112,Angry,0
+annoy_3,113,Angry,0
+annoy_3,114,Angry,0
+annoy_3,115,Angry,0
+annoy_3,116,Angry,0
+annoy_3,117,Angry,0
+annoy_3,118,Angry,0
+annoy_3,119,Angry,0
+annoy_3,120,Angry,0
+annoy_3,121,Angry,0
+annoy_3,122,Neutral,0.5
+annoy_3,123,Neutral,0.5
+annoy_3,124,Neutral,0.5
+annoy_3,125,Neutral,0.5
+annoy_3,126,Neutral,0.5
+annoy_3,127,Neutral,0.5
+annoy_3,128,Neutral,0.5
+annoy_3,129,Neutral,0.5
+annoy_3,130,Angry,0
+annoy_3,131,Neutral,0.5
+annoy_3,132,Angry,0
+annoy_3,133,Angry,0
+annoy_3,134,Neutral,0.5
+annoy_3,135,Neutral,0.5
+annoy_3,136,Neutral,0.5
+annoy_3,137,Neutral,0.5
+annoy_3,138,Neutral,0.5
+annoy_3,139,Neutral,0.5
+annoy_3,140,Neutral,0.5
+annoy_3,141,Neutral,0.5
+annoy_3,142,Neutral,0.5
+annoy_3,143,Neutral,0.5
+annoy_3,144,Neutral,0.5
+annoy_3,145,Neutral,0.5
+annoy_3,146,Neutral,0.5
+annoy_3,147,Neutral,0.5
+annoy_3,148,Neutral,0.5
+annoy_3,149,Angry,0
+annoy_3,150,Angry,0
+annoy_3,151,Angry,0
+annoy_3,152,Angry,0
+annoy_3,153,Angry,0
+annoy_3,154,Angry,0
+annoy_3,155,Neutral,0.5
+annoy_3,156,Neutral,0.5
+annoy_3,157,Neutral,0.5
+annoy_3,158,Neutral,0.5
+annoy_3,159,Neutral,0.5
+annoy_3,160,Neutral,0.5
+annoy_3,161,Neutral,0.5
+annoy_3,162,Angry,0
+annoy_3,163,Angry,0
+Anger_3,0,Neutral,0.5
+Anger_3,1,Neutral,0.5
+Anger_3,2,Neutral,0.5
+Anger_3,3,Anger,0
+Anger_3,4,Anger,0
+Anger_3,5,Anger,0
+Anger_3,6,Anger,0
+Anger_3,7,Anger,0
+Anger_3,8,Anger,0
+Anger_3,9,Anger,0
+Anger_3,10,Neutral,0.5
+Anger_3,11,Anger,0
+Anger_3,12,Anger,0
+Anger_3,13,Anger,0
+Anger_3,14,Neutral,0.5
+Anger_3,15,Neutral,0.5
+Anger_3,16,Neutral,0.5
+Anger_3,17,Neutral,0.5
+Anger_3,18,Neutral,0.5
+Anger_3,19,Neutral,0.5
+Anger_3,20,Neutral,0.5
+Anger_3,21,Neutral,0.5
+Anger_3,22,Neutral,0.5
+Anger_3,23,Neutral,0.5
+Anger_3,24,Neutral,0.5
+Anger_3,25,Neutral,0.5
+Anger_3,26,Neutral,0.5
+Anger_3,27,Neutral,0.5
+Anger_3,28,Neutral,0.5
+Anger_3,29,Neutral,0.5
+Anger_3,30,Neutral,0.5
+Anger_3,31,Neutral,0.5
+Anger_3,32,Neutral,0.5
+Anger_3,33,Neutral,0.5
+Anger_3,34,Neutral,0.5
+Anger_3,35,Anger,0
+Anger_3,36,Neutral,0.5
+Anger_3,37,Neutral,0.5
+Anger_3,38,Neutral,0.5
+Anger_3,39,Neutral,0.5
+Anger_3,40,Neutral,0.5
+Anger_3,41,Neutral,0.5
+Anger_3,42,Anger,0
+Anger_3,43,Neutral,0.5
+Anger_3,44,Neutral,0.5
+Anger_3,45,Neutral,0.5
+Anger_3,46,Neutral,0.5
+Anger_3,47,Neutral,0.5
+Anger_3,48,Neutral,0.5
+Anger_3,49,Neutral,0.5
+Anger_3,50,Neutral,0.5
+Anger_3,51,Neutral,0.5
+Anger_3,52,Neutral,0.5
+Anger_3,53,Anger,0
+Anger_3,54,Anger,0
+Anger_3,55,Neutral,0.5
+Anger_3,56,Neutral,0.5
+Anger_3,57,Neutral,0.5
+Anger_3,58,Neutral,0.5
+Anger_3,59,Anger,0
+Anger_3,60,Anger,0
+Anger_3,61,Neutral,0.5
+Anger_3,62,Anger,0
+Anger_3,63,Anger,0
+Anger_3,64,Anger,0
+Anger_3,65,Anger,0
 joy_8,0,Neutral,0.5
 joy_8,1,Neutral,0.5
 joy_8,2,Neutral,0.5
@@ -587,75 +587,75 @@ joy_8,18,Neutral,0.5
 joy_8,19,Neutral,0.5
 joy_8,20,Neutral,0.5
 joy_8,21,Neutral,0.5
-joy_8,22,Happy,1.0
-joy_8,23,Happy,1.0
-joy_8,24,Happy,1.0
-joy_8,25,Happy,1.0
-joy_8,26,Happy,1.0
-joy_8,27,Happy,1.0
-joy_8,28,Happy,1.0
-joy_8,29,Happy,1.0
-joy_8,30,Happy,1.0
-joy_8,31,Happy,1.0
-joy_8,32,Happy,1.0
-joy_8,33,Happy,1.0
+joy_8,22,Happy,1
+joy_8,23,Happy,1
+joy_8,24,Happy,1
+joy_8,25,Happy,1
+joy_8,26,Happy,1
+joy_8,27,Happy,1
+joy_8,28,Happy,1
+joy_8,29,Happy,1
+joy_8,30,Happy,1
+joy_8,31,Happy,1
+joy_8,32,Happy,1
+joy_8,33,Happy,1
 joy_8,34,Neutral,0.5
-joy_8,35,Happy,1.0
+joy_8,35,Happy,1
 joy_8,36,Neutral,0.5
-joy_8,37,Happy,1.0
-joy_8,38,Happy,1.0
-joy_8,39,Happy,1.0
-joy_8,40,Happy,1.0
-joy_8,41,Happy,1.0
-joy_8,42,Happy,1.0
-joy_8,43,Happy,1.0
-joy_8,44,Happy,1.0
-joy_8,45,Happy,1.0
-joy_8,46,Happy,1.0
-joy_8,47,Happy,1.0
-joy_8,48,Happy,1.0
-joy_8,49,Happy,1.0
-joy_8,50,Happy,1.0
-joy_8,51,Happy,1.0
-joy_8,52,Happy,1.0
-joy_8,53,Happy,1.0
-joy_8,54,Happy,1.0
-joy_8,55,Happy,1.0
-joy_8,56,Happy,1.0
-joy_8,57,Happy,1.0
-joy_8,58,Happy,1.0
-joy_8,59,Happy,1.0
-joy_8,60,Happy,1.0
-joy_8,61,Happy,1.0
-joy_8,62,Happy,1.0
-joy_8,63,Happy,1.0
-joy_8,64,Happy,1.0
-sad_4,0,Sad,0.0
-sad_4,1,Sad,0.0
-sad_4,2,Sad,0.0
-sad_4,3,Sad,0.0
-sad_4,4,Sad,0.0
-sad_4,5,Sad,0.0
-sad_4,6,Sad,0.0
-sad_4,7,Sad,0.0
-sad_4,8,Sad,0.0
-sad_4,9,Sad,0.0
-sad_4,10,Sad,0.0
-sad_4,11,Sad,0.0
-sad_4,12,Sad,0.0
-sad_4,13,Sad,0.0
-sad_4,14,Sad,0.0
-sad_4,15,Sad,0.0
-sad_4,16,Sad,0.0
-sad_4,17,Sad,0.0
-sad_4,18,Sad,0.0
-sad_4,19,Sad,0.0
-sad_4,20,Sad,0.0
-sad_4,21,Sad,0.0
-sad_4,22,Sad,0.0
-sad_4,23,Sad,0.0
-sad_4,24,Sad,0.0
-sad_4,25,Sad,0.0
+joy_8,37,Happy,1
+joy_8,38,Happy,1
+joy_8,39,Happy,1
+joy_8,40,Happy,1
+joy_8,41,Happy,1
+joy_8,42,Happy,1
+joy_8,43,Happy,1
+joy_8,44,Happy,1
+joy_8,45,Happy,1
+joy_8,46,Happy,1
+joy_8,47,Happy,1
+joy_8,48,Happy,1
+joy_8,49,Happy,1
+joy_8,50,Happy,1
+joy_8,51,Happy,1
+joy_8,52,Happy,1
+joy_8,53,Happy,1
+joy_8,54,Happy,1
+joy_8,55,Happy,1
+joy_8,56,Happy,1
+joy_8,57,Happy,1
+joy_8,58,Happy,1
+joy_8,59,Happy,1
+joy_8,60,Happy,1
+joy_8,61,Happy,1
+joy_8,62,Happy,1
+joy_8,63,Happy,1
+joy_8,64,Happy,1
+sad_4,0,Sad,0
+sad_4,1,Sad,0
+sad_4,2,Sad,0
+sad_4,3,Sad,0
+sad_4,4,Sad,0
+sad_4,5,Sad,0
+sad_4,6,Sad,0
+sad_4,7,Sad,0
+sad_4,8,Sad,0
+sad_4,9,Sad,0
+sad_4,10,Sad,0
+sad_4,11,Sad,0
+sad_4,12,Sad,0
+sad_4,13,Sad,0
+sad_4,14,Sad,0
+sad_4,15,Sad,0
+sad_4,16,Sad,0
+sad_4,17,Sad,0
+sad_4,18,Sad,0
+sad_4,19,Sad,0
+sad_4,20,Sad,0
+sad_4,21,Sad,0
+sad_4,22,Sad,0
+sad_4,23,Sad,0
+sad_4,24,Sad,0
+sad_4,25,Sad,0
 sad_4,26,Neutral,0.5
 sad_4,27,Neutral,0.5
 sad_4,28,Neutral,0.5
@@ -668,13 +668,13 @@ sad_3,3,Neutral,0.5
 sad_3,4,Neutral,0.5
 sad_3,5,Neutral,0.5
 sad_3,6,Neutral,0.5
-sad_3,7,Sad,0.0
-sad_3,8,Sad,0.0
-sad_3,9,Sad,0.0
-sad_3,10,Sad,0.0
-sad_3,11,Sad,0.0
-sad_3,12,Sad,0.0
-sad_3,13,Sad,0.0
+sad_3,7,Sad,0
+sad_3,8,Sad,0
+sad_3,9,Sad,0
+sad_3,10,Sad,0
+sad_3,11,Sad,0
+sad_3,12,Sad,0
+sad_3,13,Sad,0
 sad_3,14,Neutral,0.5
 sad_3,15,Neutral,0.5
 sad_3,16,Neutral,0.5
@@ -682,34 +682,34 @@ sad_3,17,Neutral,0.5
 sad_3,18,Neutral,0.5
 sad_3,19,Neutral,0.5
 sad_3,20,Neutral,0.5
-joy_10,0,Happy,1.0
-joy_10,1,Happy,1.0
-joy_10,2,Happy,1.0
-joy_10,3,Happy,1.0
-joy_10,4,Happy,1.0
-joy_10,5,Happy,1.0
-joy_10,6,Happy,1.0
-joy_10,7,Happy,1.0
-joy_10,8,Happy,1.0
-joy_10,9,Happy,1.0
-joy_10,10,Happy,1.0
-joy_10,11,Happy,1.0
-joy_10,12,Happy,1.0
-joy_10,13,Happy,1.0
-joy_10,14,Happy,1.0
-joy_10,15,Happy,1.0
-joy_10,16,Happy,1.0
-joy_10,17,Happy,1.0
-joy_10,18,Happy,1.0
-joy_10,19,Happy,1.0
-joy_10,20,Happy,1.0
-joy_10,21,Happy,1.0
-joy_10,22,Happy,1.0
-joy_10,23,Happy,1.0
-joy_10,24,Happy,1.0
-joy_10,25,Happy,1.0
-joy_10,26,Happy,1.0
-joy_10,27,Happy,1.0
+joy_10,0,Happy,1
+joy_10,1,Happy,1
+joy_10,2,Happy,1
+joy_10,3,Happy,1
+joy_10,4,Happy,1
+joy_10,5,Happy,1
+joy_10,6,Happy,1
+joy_10,7,Happy,1
+joy_10,8,Happy,1
+joy_10,9,Happy,1
+joy_10,10,Happy,1
+joy_10,11,Happy,1
+joy_10,12,Happy,1
+joy_10,13,Happy,1
+joy_10,14,Happy,1
+joy_10,15,Happy,1
+joy_10,16,Happy,1
+joy_10,17,Happy,1
+joy_10,18,Happy,1
+joy_10,19,Happy,1
+joy_10,20,Happy,1
+joy_10,21,Happy,1
+joy_10,22,Happy,1
+joy_10,23,Happy,1
+joy_10,24,Happy,1
+joy_10,25,Happy,1
+joy_10,26,Happy,1
+joy_10,27,Happy,1
 joy_10,28,Neutral,0.5
 joy_10,29,Neutral,0.5
 joy_10,30,Neutral,0.5
@@ -745,19 +745,19 @@ joy_10,59,Neutral,0.5
 joy_10,60,Neutral,0.5
 joy_10,61,Neutral,0.5
 joy_10,62,Neutral,0.5
-joy_10,63,Happy,1.0
-joy_10,64,Happy,1.0
-joy_10,65,Happy,1.0
-joy_10,66,Happy,1.0
-joy_10,67,Happy,1.0
-joy_10,68,Happy,1.0
-joy_10,69,Happy,1.0
-joy_7,0,Happy,1.0
-joy_7,1,Happy,1.0
-joy_7,2,Happy,1.0
-joy_7,3,Happy,1.0
-joy_7,4,Happy,1.0
-joy_7,5,Happy,1.0
-joy_7,6,Happy,1.0
-joy_7,7,Happy,1.0
-joy_7,8,Happy,1.0
+joy_10,63,Happy,1
+joy_10,64,Happy,1
+joy_10,65,Happy,1
+joy_10,66,Happy,1
+joy_10,67,Happy,1
+joy_10,68,Happy,1
+joy_10,69,Happy,1
+joy_7,0,Happy,1
+joy_7,1,Happy,1
+joy_7,2,Happy,1
+joy_7,3,Happy,1
+joy_7,4,Happy,1
+joy_7,5,Happy,1
+joy_7,6,Happy,1
+joy_7,7,Happy,1
+joy_7,8,Happy,1
